@@ -9,6 +9,8 @@ Icons from [JayCanuck / CodyBook320x240](https://github.com/JayCanuck/CodyBook32
 
 ## Installation
 
+You can either download the ZIP file from the latest [release](https://github.com/V4NT0M/insert-diskette-simplemenu-theme/releases) or you can click on the green 'code' button above and click 'Download Zip' (this will give you all the latest changes without having to wait for a release).
+
 Copy to usr/local/home.simplemenu/themes/320x240/
 Press start in simplemenu and choose 'Insert Diskette' as theme.
 <br/>
