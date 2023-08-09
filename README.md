@@ -1,7 +1,7 @@
 # Insert Diskette Dimplemenu Theme
 A simple theme for [SimpleMenu](https://github.com/fgl82/simplemenu)
 
-![](https://raw.githubusercontent.com/V4NT0M/insert-diskette-simplemenu-theme/main/Insert%20Diskette/resources/section_groups/consoles.png) &nbsp; ![](https://raw.githubusercontent.com/V4NT0M/insert-diskette-simplemenu-theme/main/Insert%20Diskette/resources/apps/logo.png) &nbsp; <br/>
+![](https://raw.githubusercontent.com/V4NT0M/insert-diskette-simplemenu-theme/main/Insert%20Diskette/resources/section_groups/consoles.png) &nbsp; ![](https://raw.githubusercontent.com/V4NT0M/insert-diskette-simplemenu-theme/main/Insert%20Diskette/resources/apps/logo.png) &nbsp; <br/><br/>
 ![](https://raw.githubusercontent.com/V4NT0M/insert-diskette-simplemenu-theme/main/Insert%20Diskette/resources/psx/logo.png) &nbsp; ![](https://raw.githubusercontent.com/V4NT0M/insert-diskette-simplemenu-theme/main/Insert%20Diskette/resources/gbc/logo.png) &nbsp; <br/>
 
 Inspired by [Yarkiebrown / BetaMax-SimpleMenu-theme](https://github.com/Yarkiebrown/BetaMax-SimpleMenu-theme)<br/>
