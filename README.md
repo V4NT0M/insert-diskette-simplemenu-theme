@@ -1,4 +1,4 @@
-# Insert Diskette Dimplemenu Theme
+# Insert Diskette Simplemenu Theme
 A simple theme for [SimpleMenu](https://github.com/fgl82/simplemenu)
 
 ![](https://raw.githubusercontent.com/V4NT0M/insert-diskette-simplemenu-theme/main/Insert%20Diskette/resources/section_groups/consoles.png) &nbsp; &nbsp; ![](https://raw.githubusercontent.com/V4NT0M/insert-diskette-simplemenu-theme/main/Insert%20Diskette/resources/apps/logo.png) &nbsp; <br/><br/>
